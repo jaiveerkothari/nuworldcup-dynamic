@@ -1,3 +1,3 @@
-Work in Progress.
-This is meant to be the new dynamic website for NU World Cup 2017. 
-Shifting over from static. 
+# [NU World Cup](http://nuworldcup.com/)
+
+Built using the Modern Business template from [StartBootstrap.com](http://startbootstrap.com/template-overviews/modern-business/).
